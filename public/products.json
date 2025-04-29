@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "iPhone 13", "price": 799, "category": "Phones", "image": "https://via.placeholder.com/150" },
+  { "id": 2, "name": "MacBook Pro", "price": 1299, "category": "Laptops", "image": "https://via.placeholder.com/150" },
+  { "id": 3, "name": "Galaxy S22", "price": 699, "category": "Phones", "image": "https://via.placeholder.com/150" },
+  { "id": 4, "name": "Dell XPS 13", "price": 999, "category": "Laptops", "image": "https://via.placeholder.com/150" }
+]
